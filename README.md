@@ -1,2 +1,2 @@
 # amar_demo
-This is a demo for Git &amp; Github
+This is a demo for Git &amp; Github.
